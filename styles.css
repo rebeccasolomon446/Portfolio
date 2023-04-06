@@ -37,7 +37,44 @@ li a:hover {
 
 }
 
-.hero-section, .aboutme-section {
+.hero-section {
     background-color: rgb(183, 169, 197);
-    
+}
+
+.aboutme-section {
+    width:100;
+    padding: 78px 0px;
+    background-color: rgb(183, 169, 197);
+}
+
+.aboutme-section img {
+    height: auto;
+    width: 420px;
+}
+
+.aboutme-text{
+    width: 550px;
+}
+
+.main {
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.aboutme-text h1 {
+    color: white;
+    font-size: 80px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+
+.aboutme-text h5 {
+    color: white;
+    font-size: 25px;
+    margin-bottom: 25px;
+    letter-spacing: 2px;;
 }
