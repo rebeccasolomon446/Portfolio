@@ -78,3 +78,15 @@ li a:hover {
     margin-bottom: 25px;
     letter-spacing: 2px;;
 }
+
+span {
+    color: purple;
+}
+
+.aboutme-text {
+    color: rgb(140, 95, 140);
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 18x;
+    margin-bottom: 45px;
+}
