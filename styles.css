@@ -37,7 +37,7 @@ li a:hover {
 
 }
 
-.hero-section {
+.hero-section, .aboutme-section {
     background-color: rgb(183, 169, 197);
     
 }
