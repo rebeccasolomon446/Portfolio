@@ -2,6 +2,10 @@ body {
     background-color: rgb(169, 124, 212);
 }
 
+nav {
+    margin: ;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -25,4 +29,15 @@ li a{
 
 li a:hover {
     background-color: black;
+}
+
+#greeting {
+    text-align: center;
+    padding: 150px;
+
+}
+
+.hero-section {
+    background-color: rgb(183, 169, 197);
+    
 }
